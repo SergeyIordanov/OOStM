@@ -1,0 +1,9 @@
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\bin\Debug\Counting_systems_transmission.exe.config
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\bin\Debug\Counting_systems_transmission.exe
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\bin\Debug\Counting_systems_transmission.pdb
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.csprojResolveAssemblyReference.cache
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.Form1.resources
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.Properties.Resources.resources
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.csproj.GenerateResource.Cache
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.exe
+c:\users\serge\Documents\Visual Studio 2015\Projects\Counting_systems_transmission\Counting_systems_transmission\obj\Debug\Counting_systems_transmission.pdb
