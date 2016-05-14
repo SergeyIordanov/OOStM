@@ -1,0 +1,9 @@
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\bin\Debug\IP-calculator.exe.config
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\bin\Debug\IP-calculator.exe
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\bin\Debug\IP-calculator.pdb
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP-calculator.csprojResolveAssemblyReference.cache
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP_calculator.Form1.resources
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP_calculator.Properties.Resources.resources
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP-calculator.csproj.GenerateResource.Cache
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP-calculator.exe
+C:\1Sergey\4ProjectsInGit\University\OS\IP-calculator\IP-calculator\obj\Debug\IP-calculator.pdb
