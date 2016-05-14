@@ -4,3 +4,6 @@ Counting_systems_transmission - additional task for the first practical lesson.
 Arithmetic_For_Different_Number_Systems - additional task for the second practical lesson. 
 (Basic arithmetic operations with different (2, 8, 10, 16) number systems)
 //now implemented only binary + & - and all decimal operations
+
+IP-calculator - additional task for the third practical lesson. 
+(All info about network by ip & mask + subnetting)
